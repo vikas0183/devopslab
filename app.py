@@ -5,11 +5,5 @@ print(max(dic,key=dic.get))
 print('hello')
 print('how are you')
 print('hello')
-print('how are you')
-print('hello')
-print('hello')
-print('how are you')
-print('hello')
-print('how are you')
-print('hello')
+
 
